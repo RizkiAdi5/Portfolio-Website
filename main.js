@@ -47,7 +47,7 @@ ScrollReveal().reveal('.home-contact p, .about-content', { origin: 'right' });
 
 // Typed JS
 const typed = new Typed('.multiple-text', {
-    strings: ['EPICOR Consultant','Web Developer', 'Project Manager', 'EPICOR Consultant','Copywriter'],
+    strings: ['EPICOR Consultant','Web Developer', 'Project Manager', 'ERP Specialist'],
     typeSpeed: 70,
     backSpeed: 70,
     loop: true,
